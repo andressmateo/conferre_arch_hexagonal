@@ -1,5 +1,5 @@
 from negocio_rules import rules
-from datos import data
+from datos import interfase
 
 #Casos de uso de la aplicación
 
